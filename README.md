@@ -1,5 +1,7 @@
-# 14-practice1
+# Application like a online-bank accont, when you can authorizate your account and create request with different status.
 
+## Preview
+https://vue-online-bank-cfe18.web.app/
 ## Project setup
 ```
 npm install
@@ -14,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
